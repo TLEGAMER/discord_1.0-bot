@@ -23,7 +23,7 @@ def keep_alive():
 
 
 # ------------------ Discord Bot ------------------
-TOKEN = "MTM3MTU4MDY0NjE1MzEzMDAyNA.Gy5tpz.7s11ffwVOs4loB4SkpGyt4oux54tXUtfTvqkKs"
+TOKEN = "MTM3MTU4MDY0NjE1MzEzMDAyNA.GRfQpc.hVZFDSU39VoZpYM9d5N2C8XbNOzM7LghQmZtys"
 VOICE_CHANNEL_ID = 1375227595741855825
 
 intents = discord.Intents.default()
